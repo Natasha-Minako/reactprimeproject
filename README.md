@@ -70,7 +70,7 @@ Below is a complete step-by-step guide to run the React Prime project, allowing 
 
 ### 1. Clone the repository  
 ```bash
-git clone [https://github.com/adrielyandrade/reactprimeproject.git](https://github.com/natasha-minako/reactprimeproject.git)
+git clone https://github.com/adrielyandrade/reactprimeproject.git
 ```
 
 ### 2. Navigate into the project folder  
@@ -104,6 +104,6 @@ This project allowed me to apply React and front-end development skills in pract
 
 ---
 
-## ℹ️ Additional Information 
-For more information, visit the official Create React App documentation: 
-[Create React App Docs](https://create-react-app.dev/docs/getting-started/).
+## Contact
+
+For questions, suggestions, or feedback, please open an issue in this repository or contact me directly.
