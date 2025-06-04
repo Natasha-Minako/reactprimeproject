@@ -105,4 +105,5 @@ This project allowed me to apply React and front-end development skills in pract
 ---
 
 ## ℹ️ Additional Information 
-For more information, visit the official Create React App documentation: [Create React App Docs](https://create-react-app.dev/docs/getting-started/).
+For more information, visit the official Create React App documentation: 
+[Create React App Docs](https://create-react-app.dev/docs/getting-started/).
