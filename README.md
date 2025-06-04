@@ -70,7 +70,7 @@ Below is a complete step-by-step guide to run the React Prime project, allowing 
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/adrielyandrade/reactprimeproject.git
+git clone https://github.com/natasha-minako/reactprimeproject.git
 ```
 
 ### 2. Navigate into the project folder  
