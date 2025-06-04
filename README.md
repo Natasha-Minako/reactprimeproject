@@ -70,29 +70,29 @@ Below is a complete step-by-step guide to run the React Prime project, allowing 
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/adrielyandrade/reactprimeproject.git
+git clone [https://github.com/adrielyandrade/reactprimeproject.git](https://github.com/natasha-minako/reactprimeproject.git)
 ```
 
 ### 2. Navigate into the project folder  
 ```bash
-cd reactprimeproject
+git cd reactprimeproject
 ```
 
 ### 3. Install dependencies 
 ```bash
-npm install
+git npm install
 ```
 
 ### 4. Start the development server
 ```bash
-npm start
+git npm start
 ```
 
 ---
 
 ## 📋 Available Scripts
 
-- `npm start`: Runs the app in development mode. Opens http://localhost:3000. The page reloads automatically when changes are saved. 
+- `npm start`: Runs the app in development mode. [Opens http://localhost:3000.](Opens http://localhost:3000.) The page reloads automatically when changes are saved. 
 - `npm test`: Launches the interactive test runner.  
 - `npm run build`:	 Builds the app for production in the `build` folder.
 - `npm run eject`:	emoves the single build dependency from your project. ⚠️ This is a one-way operation.
