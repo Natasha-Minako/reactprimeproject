@@ -1,6 +1,6 @@
 # React Prime Project
 
-## 🏫 Institution and Course  
+## Institution and Course  
 - **Institution:** Universidade Tiradentes  
 - **Course:** Systems Analysis and Development
 - **Semester:** 2nd Semester
@@ -9,7 +9,7 @@
 
 ---
 
-## 👥 Members 
+## Members 
 - Adriely Natasha Martins Andrade — RA: 1241309350  
 - David Richard Oliveira da Silva — RA: 1242303224  
 - Mayara Beatriz da Luz Araujo — RA: 124230323  
@@ -18,36 +18,36 @@
 
 ---
 
-## 🎯 Objective  
+## Objective  
 Develop a React-based website with a free theme, incorporating multimedia elements such as images, audio, and video, applying the knowledge acquired in the course.
 
 ---
 
-## 📑 Index
+## Index
 
-1. [📚 About the Project](#-visão-geral)
-2. [🏫 Institution and Course](#-instituição-e-curso)
-3. [👥 Members](#-integrantes)
-4. [🎯 Objective](#-objetivo)
-5. [🛠 Objective](#-tecnologias-utilizadas)
-6. [🚀 How to Run the Project](#-installation-and-execution-steps)
-7. [📋 Available Scripts](#-scripts-disponíveis)
-8. [📌 Final Considerations](#-considerações-finais)
-9. [ℹ️ Additional Information](#-informações-adicionais)
+1. [About the Project](#-visão-geral)
+2. [Institution and Course](#-instituição-e-curso)
+3. [Members](#-integrantes)
+4. [Objective](#-objetivo)
+5. [Objective](#-tecnologias-utilizadas)
+6. [How to Run the Project](#-installation-and-execution-steps)
+7. [Available Scripts](#-scripts-disponíveis)
+8. [Final Considerations](#-considerações-finais)
+9. [Additional Information](#-informações-adicionais)
 
 ---
 
-## 🔍 Overview  
+## Overview  
 React Prime Project is a web application developed for the Front-End Development course at Universidade Tiradentes. Its goal is to demonstrate practical knowledge of React, using multimedia elements like images, audio, and video to enrich the user experience.
 
-### 🚀 Features:  
+### Features:  
 - Includes multimedia elements (images, audio, and video) 
 - Applies best practices in JavaScript (ES6+), HTML5, and CSS3
 - Simplified scripts for local execution
 
 ---
 
-## 🛠 Technologies Used 
+## Technologies Used 
 - React  
 - JavaScript (ES6+)  
 - HTML5  
@@ -57,14 +57,14 @@ React Prime Project is a web application developed for the Front-End Development
 
 ---
 
-## 📦 Deployment Instructions
+## Deployment Instructions
 Below is a complete step-by-step guide to run the React Prime project, allowing anyone to set up and execute the application from scratch in a new environment.
 
 ---
 
-## 🚀 Installation and Execution Steps  
+## Installation and Execution Steps  
 
-### ✅ Prerequisites
+### Prerequisites
 - Node.js (v14+)  
 - npm  
 
@@ -90,7 +90,7 @@ git npm start
 
 ---
 
-## 📋 Available Scripts
+## Available Scripts
 
 - `npm start`: Runs the app in development mode. [Opens http://localhost:3000.](Opens http://localhost:3000.) The page reloads automatically when changes are saved. 
 - `npm test`: Launches the interactive test runner.  
@@ -99,7 +99,7 @@ git npm start
 
 ---
 
-## 📌 Final Considerations  
+## Final Considerations  
 This project allowed me to apply React and front-end development skills in practice, focusing on multimedia integration, responsiveness, and accessibility. It was a great opportunity to consolidate concepts and improve technically. I thank Professor Diógenes Carvalho Matias for his support throughout the process.
 
 ---
