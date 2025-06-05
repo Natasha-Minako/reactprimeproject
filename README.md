@@ -75,17 +75,17 @@ git clone https://github.com/natasha-minako/reactprimeproject.git
 
 ### 2. Navigate into the project folder  
 ```bash
-git cd reactprimeproject
+cd reactprimeproject
 ```
 
 ### 3. Install dependencies 
 ```bash
-git npm install
+npm install
 ```
 
 ### 4. Start the development server
 ```bash
-git npm start
+npm start
 ```
 
 ---
