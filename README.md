@@ -52,8 +52,8 @@ React Prime Project is a web application developed for the Front-End Development
 - JavaScript (ES6+)  
 - HTML5  
 - CSS3  
-- Node.js (versão 14 ou superior recomendada)  
-- npm (gerenciador de pacotes do Node)  
+- Node.js (version 14 or higher recommended)
+- npm (Node package manager)
 
 ---
 
